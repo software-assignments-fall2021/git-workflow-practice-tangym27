@@ -4,7 +4,7 @@ Within this article, linked [here](https://www.techrepublic.com/article/74-of-so
 
 This article is relevant to software engineering because it can be representative of a further abstraction of the Agile Manifesto. The manifesto pushes forwards ideals that value flexibility over rigidity. We can imagine the 9-5 lifestyle as a forced type of rigidity that comes from a work culture that has been engrained in human society for centuries. Instead of truly listening to what people want and changing based on life circumstances, we still stick to what is given to us. Remote/hybrid work is the parallel of Agile, showing an incorporating of opinions, collaboration, and flexibility. In the article, one of the reasons remote work was sought after was because some employees believed that the current location of their work was dangerous because of political and geographical tensions. It is unlikely for in-person work to have responded to this change and instead, those employees would have to remain with a system that wasn't best for their happiness or mental well-being. Remote work is like how, when following the Scrum framework, you change and adapt after each sprint.
 
-## Comments
+## Comments (Alan Chen)
 
 I found it interesting that the article mentions that working remotely leads to "enhanced work life balance" because almost everyone I spoke to during my internship this past summer mentioned that they lose track of time and work more (or crazy/odd) hours in the day as a result of WFH. I personally experienced this, too. In the office, I knew when it was time to stop working because my co-workers were packing up. When I was working remotely, I often lost track of time and worked late nights.
 
